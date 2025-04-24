@@ -9,8 +9,20 @@ The target users are individuals who are beginning their Spanish learning journe
 
 The app consists of several key components:
 
-```mermaid
 classDiagram
+    class Main {
+        + runApp()
+        + build()
+        + _MyHomePageState()
+        + loadFlashcards()
+        + loadNames()
+        + saveName()
+        + saveCorrectAnswers()
+        + openFlashcardsPage()
+        + reset()
+        + build()
+    }
+
     class Flashcard {
         - String spanish
         - String english
@@ -33,14 +45,6 @@ classDiagram
         + loadProgress()
     }
 
-    class UserProgress {
-        - int correctAnswers
-        - int currentFlashcardIndex
-        + UserProgress(correctAnswers, currentFlashcardIndex)
-        + toJson()
-        + fromJson()
-    }
-```
 
 ### 3. Instructions
 
