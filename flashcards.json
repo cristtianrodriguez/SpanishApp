@@ -1,0 +1,19 @@
+{
+  "flashcards": [
+    { "spanish": "Hola", "english": "Hello", "options": ["Hello", "Cat", "Dog", "Book"], "correctOption": "Hello" },
+    { "spanish": "Gato", "english": "Cat", "options": ["Hello", "Cat", "Dog", "Table"], "correctOption": "Cat" },
+    { "spanish": "Perro", "english": "Dog", "options": ["Table", "Book", "Dog", "Lamp"], "correctOption": "Dog" },
+    { "spanish": "Mesa", "english": "Table", "options": ["Lamp", "Book", "Table", "Dog"], "correctOption": "Table" },
+    { "spanish": "Libro", "english": "Book", "options": ["Pen", "Book", "Table", "Lamp"], "correctOption": "Book" },
+    { "spanish": "Zapato", "english": "Shoe", "options": ["Cat", "Dog", "Shoe", "Book"], "correctOption": "Shoe" },
+    { "spanish": "Calle", "english": "Street", "options": ["Dog", "Lamp", "Pen", "Street"], "correctOption": "Street" },
+    { "spanish": "Ventana", "english": "Window", "options": ["Window", "Cat", "Lamp", "Dog"], "correctOption": "Window" },
+    { "spanish": "Puerta", "english": "Door", "options": ["Messi", "Dog", "Door", "Pen"], "correctOption": "Door" },
+    { "spanish": "Camino", "english": "Path", "options": ["Dog", "Cat", "Path", "Book"], "correctOption": "Path" },
+    { "spanish": "Bocadillo", "english": "Sandwich", "options": ["Book", "Dog", "Lamp", "Sandwich"], "correctOption": "Sandwich" },
+    { "spanish": "Reloj", "english": "Watch", "options": ["Watch", "Table", "Pen", "Book"], "correctOption": "Watch" },
+    { "spanish": "Computadora", "english": "Computer", "options": ["Pen", "Lamp", "Computer", "Book"], "correctOption": "Computer" },
+    { "spanish": "Lámpara", "english": "Lamp", "options": ["Pen", "Lamp", "Book", "Cat"], "correctOption": "Lamp" },
+    { "spanish": "Camarón", "english": "Shrimp", "options": ["Cat", "Dog", "Shrimp", "Book"], "correctOption": "Shrimp" }
+  ]
+}
