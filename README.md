@@ -7,8 +7,7 @@ The target users are individuals who are beginning their Spanish learning journe
 
 ### 2. Design and Architecture
 
-The app consists of several key components:
-
+```mermaid
 classDiagram
     class Main {
         + runApp()
@@ -44,7 +43,7 @@ classDiagram
         + saveProgress(selectedOption)
         + loadProgress()
     }
-
+```
 
 ### 3. Instructions
 
